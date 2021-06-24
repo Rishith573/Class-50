@@ -1,0 +1,24 @@
+h1{
+    color:lightsalmon
+}
+.header{
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-around;
+}
+.projects{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.socialMedia{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+.info{
+    background-color: lime;
+}
+.ref{
+    background-color: mediumaquamarine;
+}
